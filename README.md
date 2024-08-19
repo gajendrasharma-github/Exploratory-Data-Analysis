@@ -1,6 +1,6 @@
 # Guide to all the projects
 
-**1. Exploring Big Mart Sales: A comprehensive guide to EDA** [Link](https://github.com/gajendrasharma-github/EDA-Exploring-Data-to-uncover-hidden-Patterns/blob/main/Big_Mart_Sales_EDA.ipynb)
+**1. Exploring Big Mart Sales** [Link](https://github.com/gajendrasharma-github/Exploratory-Data-Analysis/blob/main/EDA_Big_Mart_Sales.ipynb)
 
 **2. Exploring Student's Grade Dataset** [Link](https://github.com/gajendrasharma-github/EDA-Exploring-Data-to-uncover-hidden-Patterns/blob/main/Students%20Grade%20EDA.ipynb)
 
